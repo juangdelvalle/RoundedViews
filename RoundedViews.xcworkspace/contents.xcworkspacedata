@@ -4,7 +4,4 @@
    <FileRef
       location = "container:RoundedViews.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:/Users/juanalbertouribe/Documents/Projects/RoundedViews/RoundedViews Example.xcodeproj">
-   </FileRef>
 </Workspace>
